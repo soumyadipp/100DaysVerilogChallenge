@@ -34,7 +34,7 @@ module BoothAlgo(
     Acc=8'd0;
     q0=1'b0;
     M_comp=-M;
-    for(i=0;i<=4;i=i+1)
+    for(i=0;i<4;i=i+1)
     begin
     operation= {Q[i],q0};
     case(operation)

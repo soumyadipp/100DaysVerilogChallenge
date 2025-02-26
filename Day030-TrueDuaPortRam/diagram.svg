@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="319.3px" height="304.4px" viewBox="0 0 319.3 304.4" style="enable-background:new 0 0 319.3 304.4;" xml:space="preserve"><defs><style type="text/css">@import url(/content/dam/develop/public/us/en/include/css/myriadPro.css);</style></defs>
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;stroke:#000000;}
+	.st2{font-family:'MyriadPro-Cond';}
+	.st3{font-size:15px;}
+	.st4{fill:none;stroke:#000000;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;}
+	.st6{font-size:15px;glyph-orientation-vertical:1;writing-mode:tb;}
+	.st7{font-size:15px;glyph-orientation-vertical:0;writing-mode:tb;}
+</style>
+<rect x="157.7" y="51.3" class="st0" width="62.8" height="17"/>
+<rect x="96.1" y="53.8" class="st1" width="128.5" height="250.1"/>
+<text transform="matrix(1 0 0 1 13.6951 173.8414)" class="st2 st3" style="font-family:;">wren_a</text>
+<text transform="matrix(1 0 0 1 1.678467e-04 249.8414)" class="st2 st3" style="font-family:;">byteena_a</text>
+<text transform="matrix(1 0 0 1 16.2 199.8414)" class="st2 st3" style="font-family:;">rden_a</text>
+<text transform="matrix(1 0 0 1 2.1609 223.8414)" class="st2 st3" style="font-family:;">address_a</text>
+<text transform="matrix(1 0 0 1 21.6301 91.8414)" class="st2 st3" style="font-family:;">clock0</text>
+<text transform="matrix(1 0 0 1 33.7467 146.7331)" class="st2 st3" style="font-family:;">aclr</text>
+<text transform="matrix(1 0 0 1 269.6406 118.3414)" class="st2 st3" style="font-family:;">clocken1</text>
+<text transform="matrix(1 0 0 1 269.6406 92.8414)" class="st2 st3" style="font-family:;">clock1</text>
+<text transform="matrix(1 0 0 1 268.6406 198.8414)" class="st2 st3" style="font-family:;">address_b</text>
+<text transform="matrix(1 0 0 1 268.6406 223.8541)" class="st2 st3" style="font-family:;">byteena_b</text>
+<text transform="matrix(1 0 0 1 267.6406 147.8414)" class="st2 st3" style="font-family:;">wren_b</text>
+<text transform="matrix(1 0 0 1 267.6406 173.8414)" class="st2 st3" style="font-family:;">rden_b</text>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="219.8" x2="89.1" y2="219.8"/>
+		<g>
+			<polygon points="87.8,224.3 95.6,219.8 87.8,215.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="260.1" y1="217.7" x2="230.5" y2="217.7"/>
+		<g>
+			<polygon points="231.8,213.2 224.1,217.7 231.8,222.2    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="61" y1="142.2" x2="90.5" y2="142.2"/>
+		<g>
+			<polygon points="89.2,146.7 97,142.2 89.2,137.7    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 155.6957 12.5548)" class="st2 st3" style="font-family:;">sclr</text>
+<g>
+	<g>
+		<line class="st4" x1="163.4" y1="47.7" x2="163.4" y2="18.2"/>
+		<g>
+			<polygon points="158.9,46.4 163.4,54.2 167.9,46.4    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="87.8" x2="89.1" y2="87.8"/>
+		<g>
+			<polygon points="87.8,92.3 95.6,87.8 87.8,83.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="245.8" x2="89.1" y2="245.8"/>
+		<g>
+			<polygon points="87.8,250.3 95.6,245.8 87.8,241.3    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 16.6951 271.8414)" class="st2 st3" style="font-family:;">data_a</text>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="267.8" x2="89.1" y2="267.8"/>
+		<g>
+			<polygon points="87.8,272.3 95.6,267.8 87.8,263.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="195.8" x2="89.1" y2="195.8"/>
+		<g>
+			<polygon points="87.8,200.3 95.6,195.8 87.8,191.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="116.3" x2="89.1" y2="116.3"/>
+		<g>
+			<polygon points="87.8,120.8 95.6,116.3 87.8,111.8    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="59.6" y1="168.8" x2="89.1" y2="168.8"/>
+		<g>
+			<polygon points="87.8,173.3 95.6,168.8 87.8,164.3    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 10.0164 119.8414)" class="st2 st3" style="font-family:;">clocken0</text>
+<g>
+	<g>
+		<line class="st4" x1="261.2" y1="142.8" x2="231.1" y2="142.8"/>
+		<g>
+			<polygon points="232.4,138.3 224.6,142.8 232.4,147.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="261.2" y1="169.8" x2="231.1" y2="169.8"/>
+		<g>
+			<polygon points="232.4,165.3 224.6,169.8 232.4,174.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="260.9" y1="193.5" x2="230.7" y2="193.5"/>
+		<g>
+			<polygon points="232.1,189 224.3,193.5 232.1,198    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="261.2" y1="87.8" x2="231.1" y2="87.8"/>
+		<g>
+			<polygon points="232.4,83.3 224.6,87.8 232.4,92.3    "/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="261.2" y1="113.8" x2="231.1" y2="113.8"/>
+		<g>
+			<polygon points="232.4,109.3 224.6,113.8 232.4,118.3    "/>
+		</g>
+	</g>
+</g>
+<polygon class="st5" points="223.6,83.7 214.9,88.6 223.6,93.5 "/>
+<polygon class="st5" points="96.2,83.9 104.9,88.8 96.2,93.7 "/>
+<text transform="matrix(1 0 0 1 31.134 290.4911)" class="st2 st3" style="font-family:;">q_a</text>
+<g>
+	<g>
+		<line class="st4" x1="95.3" y1="286.4" x2="65.7" y2="286.4"/>
+		<g>
+			<polygon points="67.1,282 59.3,286.5 67.1,291    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 268.6406 246.8541)" class="st2 st3" style="font-family:;">data_b</text>
+<g>
+	<g>
+		<line class="st4" x1="260.1" y1="240.7" x2="230.5" y2="240.7"/>
+		<g>
+			<polygon points="231.8,236.2 224.1,240.7 231.8,245.2    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 268.6406 266.8541)" class="st2 st3" style="font-family:;">q_b</text>
+<g>
+	<g>
+		<line class="st4" x1="224.1" y1="260.7" x2="253.6" y2="260.7"/>
+		<g>
+			<polygon points="252.3,265.2 260.1,260.7 252.3,256.2    "/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 115.1282 72.1598)" class="st2 st3" style="font-family:;">True Dual-Port RAM</text>
+<text transform="matrix(1 0 0 1 120.131 193.041)" class="st2 st6" style="font-family:;"> </text>
+<text transform="matrix(1 0 0 1 127.9284 133.1934)" class="st2 st7" style="font-family:;">PORT</text>
+<text transform="matrix(1 0 0 1 189.4749 192.1238)" class="st2 st6" style="font-family:;"> </text>
+<text transform="matrix(1 0 0 0.9911 197.2729 135.7803)" class="st2 st7" style="font-family:;">PORT</text>
+<text transform="matrix(1 0 0 1 127.9468 156.6149)" class="st2 st6" style="font-family:;"> </text>
+<text transform="matrix(1 0 0 1 127.9478 163.0149)" class="st2 st7" style="font-family:;">A</text>
+<text transform="matrix(1 0 0 1 197.9599 164.7795)" class="st2 st7" style="font-family:;">B</text>
+</svg>

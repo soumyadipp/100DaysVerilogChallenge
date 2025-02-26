@@ -1,6 +1,6 @@
-# 30-Day Verilog Challenge
+# 100-Day Verilog Challenge
 
-Welcome to the **30-Day Verilog Challenge**! This repository contains Verilog implementations of various digital logic circuits, finite state machines (FSMs), arithmetic circuits, and memory modules. Each day covers a unique design, starting from basic logic gates to complex FSMs and memory architectures.
+Welcome to the **100-Day Verilog Challenge**! This repository contains Verilog implementations of various digital logic circuits, finite state machines (FSMs), arithmetic circuits, and memory modules. Each day covers a unique design, starting from basic logic gates to complex FSMs and memory architectures.
 
 ## 📌 Challenge Overview
 Each folder corresponds to a day's challenge and contains Verilog source files for the design.

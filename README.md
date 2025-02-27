@@ -100,7 +100,7 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 31. **Day030 - DualPortRam**  
     - True Dual Port RAM design in Verilog.
       
-31. **Day030 - 16-Bit Flash ROM**  
+31. **Day031 - 16-Bit Flash ROM**  
     - 16-Bit Flash ROM design in Verilog.
 
 

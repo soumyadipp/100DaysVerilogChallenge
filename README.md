@@ -96,9 +96,14 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 
 30. **Day029 - SinglePortRam**  
     - Single Port RAM design in Verilog.
-    - 
+      
 31. **Day030 - DualPortRam**  
     - True Dual Port RAM design in Verilog.
+      
+31. **Day030 - 16-Bit Flash ROM**  
+    - 16-Bit Flash ROM design in Verilog.
+
+
 
 ## 🚀 How to Use
 1. Navigate to the respective folder.

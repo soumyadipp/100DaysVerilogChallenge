@@ -100,8 +100,11 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 31. **Day030 - DualPortRam**  
     - True Dual Port RAM design in Verilog.
       
-31. **Day031 - 16-Bit Flash ROM**  
+32. **Day031 - 16-Bit Flash ROM**  
     - 16-Bit Flash ROM design in Verilog.
+
+33. **Day032 - Even_Or_Odd**  
+    - Even_Or_Odd detection for Binary Number in Verilog.
 
 
 

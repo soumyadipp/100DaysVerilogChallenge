@@ -106,6 +106,9 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 33. **Day032 - Even_Or_Odd**  
     - Even_Or_Odd detection for Binary Number in Verilog.
 
+34. **Day033 - Factorial_Of_Number**  
+    -  Factorial Of a Number in Verilog.
+
 
 
 ## 🚀 How to Use

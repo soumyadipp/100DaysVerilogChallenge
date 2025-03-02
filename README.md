@@ -109,6 +109,9 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 34. **Day033 - Factorial_Of_Number**  
     -  Factorial Of a Number in Verilog.
 
+35. **Day034 - PWM**  
+    -  Pulse Width Modulation Generator in Verilog.
+
 
 
 ## 🚀 How to Use

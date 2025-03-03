@@ -112,7 +112,7 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 35. **Day034 - PWM**  
     -  Pulse Width Modulation Generator in Verilog.
 
-36. **Day035-System_Verilog_tb_HelloWorld**  
+36. **Day035- System_Verilog_tb_HelloWorld**  
     -  SystemVerilog-"Hello World" .
 ## 🚀 How to Use
 1. Navigate to the respective folder.

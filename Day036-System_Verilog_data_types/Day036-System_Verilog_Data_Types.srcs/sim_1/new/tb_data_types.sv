@@ -43,6 +43,40 @@ enum          {RED2 = 4, YELLOW2 = 9, GREEN2} light_3;         // RED2 = 4, YELL
 typedef enum {TRUE, FALSE} Answer;                             // "Answer" is a new data-type with two valid values: TRUE and FALSE
 
 initial begin
+Answer   answer;
+
+		// Assign TRUE/FALSE to the enumerated variable
+		answer = TRUE;
+
+		// Display string value of the variable
+		$display ("typedef enum|| answer = %s", answer.name);
+
+
+
+light_1 = RED;
+$display ("enum|| light_1_RED = %0d", light_1);
+light_1 = YELLOW;
+$display ("enum|| light_1_YELLOW = %0d", light_1);
+light_1 = GREEN;
+$display ("enum|| light_1_GREEN = %0d", light_1);
+
+light_2 = RED1;
+$display ("enum|| light_2_RED = %0d", light_2);
+light_2 = YELLOW1;
+$display ("enum|| light_2_YELLOW = %0d", light_2);
+light_2 = GREEN1;
+$display ("enum|| light_2_GREEN = %0d", light_2);
+
+
+light_3 = RED2;
+$display ("enum|| light_3_RED = %0d", light_3);
+light_3 = YELLOW2;
+$display ("enum|| light_3_YELLOW = %0d", light_3);
+light_3 = GREEN2;
+$display ("enum|| light_3_GREEN = %0d", light_3);
+
+
+
 
 var_0 = 'h0;     // Fills all bits of var_0 with 0
 $display("reg|| var_0=0x%0h", var_0);
@@ -96,41 +130,6 @@ var_8  = 2**63 - 1;
 $display("signed_longint|| var_8='d%0d", var_8);
 
 
-
-end
-initial begin
-
-Answer   answer;
-
-		// Assign TRUE/FALSE to the enumerated variable
-		answer = TRUE;
-
-		// Display string value of the variable
-		$display ("typedef enum|| answer = %s", answer.name);
-
-
-
-light_1 = RED;
-$display ("enum|| light_1_RED = %0d", light_1);
-light_1 = YELLOW;
-$display ("enum|| light_1_YELLOW = %0d", light_1);
-light_1 = GREEN;
-$display ("enum|| light_1_GREEN = %0d", light_1);
-
-light_2 = RED1;
-$display ("enum|| light_2_RED = %0d", light_2);
-light_2 = YELLOW1;
-$display ("enum|| light_2_YELLOW = %0d", light_2);
-light_2 = GREEN1;
-$display ("enum|| light_2_GREEN = %0d", light_2);
-
-
-light_3 = RED2;
-$display ("enum|| light_3_RED = %0d", light_3);
-light_3 = YELLOW2;
-$display ("enum|| light_3_YELLOW = %0d", light_3);
-light_3 = GREEN2;
-$display ("enum|| light_3_GREEN = %0d", light_3);
 
 end
 

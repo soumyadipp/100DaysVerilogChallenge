@@ -114,6 +114,9 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 
 36. **Day035- System_Verilog_tb_HelloWorld**  
     -  SystemVerilog-"Hello World" .
+   
+37. **Day036-System_Verilog_data_types**  
+    -  SystemVerilog-Data Types .
 ## 🚀 How to Use
 1. Navigate to the respective folder.
 2. Open the Verilog source file (`.v`) and testbench.

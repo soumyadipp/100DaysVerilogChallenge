@@ -117,6 +117,10 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
    
 37. **Day036-System_Verilog_data_types**  
     -  SystemVerilog-Data Types .
+      
+38. **Day037-System_Verilog_String_Array_Queue**  
+    -  SystemVerilog-String,Array,Queue .
+    
 ## 🚀 How to Use
 1. Navigate to the respective folder.
 2. Open the Verilog source file (`.v`) and testbench.

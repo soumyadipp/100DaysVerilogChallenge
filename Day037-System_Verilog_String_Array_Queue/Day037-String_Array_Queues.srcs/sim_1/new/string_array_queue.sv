@@ -154,7 +154,7 @@ foreach (up_array_2D[i])
 	
                // Inserts value 15 to index# 2	
 foreach (q1[i])
-    		$display ("q1[%0d] = %s", i, q1[i]);
+	$display ("q1[%0d] = %d", i, q1[i]);
 
   		// Display elements in a queue
   		$display ("q1 = %p", q1);

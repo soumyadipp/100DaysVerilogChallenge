@@ -120,6 +120,9 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
       
 38. **Day037-System_Verilog_String_Array_Queue**  
     -  SystemVerilog-String,Array,Queue .
+
+39. **Day038-System_Verilog_Fork_Join**  
+    -  SystemVerilog-Fork_Join,Fork_Join_any,Fork_Join_none,Wait fork, disable fork .
     
 ## 🚀 How to Use
 1. Navigate to the respective folder.

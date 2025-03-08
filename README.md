@@ -125,7 +125,10 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
     -  SystemVerilog-Fork_Join,Fork_Join_any,Fork_Join_none,Wait fork, disable fork .
 
 40. **Day039-System_Verilog_Interprocess_Communication**  
-    -  System_Verilog-Interprocess_Communication:Events, Semaphores.
+    -  System_Verilog-Interprocess_Communication:Events, Semaphores
+
+41. **Day040-System_Verilog_Interface**  
+    -  System_Verilog-custom interface.
       
 ## 🚀 How to Use
 1. Navigate to the respective folder.

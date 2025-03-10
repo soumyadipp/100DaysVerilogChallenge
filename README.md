@@ -129,7 +129,13 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 
 41. **Day040-System_Verilog_Interface**  
     -  System_Verilog-custom interface.
-      
+
+42. **Day041-System_Verilog_Constraints**  
+   -  System_Verilog Random Constraints.      
+
+43. **Day042-System_Verilog_Class_Constructor**  
+   -  System_Verilog Classes, Subclasses, and Random Variables.
+
 ## 🚀 How to Use
 1. Navigate to the respective folder.
 2. Open the Verilog source file (`.v`) and testbench.

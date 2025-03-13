@@ -139,7 +139,7 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 44. **Day043-System_Verilog_File_Operations**  
     -  System_Verilog File Operations, Modes.
    
-45. **Day045-AMBA_APB_1**  
+45. **Day044-AMBA_APB_1**  
     - AMBA_Advance_Peripheral_Bus.
 
 46. **Day045-AMBA_APB_2**  

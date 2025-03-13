@@ -136,6 +136,15 @@ Each folder corresponds to a day's challenge and contains Verilog source files f
 43. **Day042-System_Verilog_Class_Constructor**  
     -  System_Verilog Classes, Subclasses, and Random Variables.
 
+44. **Day043-System_Verilog_File_Operations**  
+    -  System_Verilog File Operations, Modes.
+   
+45. **Day045-AMBA_APB_1**  
+    - AMBA_Advance_Peripheral_Bus.
+
+46. **Day045-AMBA_APB_2**  
+    - AMBA_Advance_Peripheral_Bus & Simulation.
+
 ## 🚀 How to Use
 1. Navigate to the respective folder.
 2. Open the Verilog source file (`.v`) and testbench.
